@@ -10,4 +10,8 @@
 
 - A entrada será as Strings com o titulo da tarefa, a descrição e a data de vencimento.
 #
- 
+### 📌 Saída
+</br>
+
+- Será exibido a tarefa que foi adicionada com o título, descrição e data de vencimento. Mas caso a descrição tenha mais de 50 caracteres deverá ser informado: 'O Valor da descrica excede a quantidade de caracteres permitido'.
+#
