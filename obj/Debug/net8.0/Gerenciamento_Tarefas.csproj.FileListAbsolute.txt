@@ -1,0 +1,15 @@
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\bin\Debug\net8.0\Gerenciamento_Tarefas.exe
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\bin\Debug\net8.0\Gerenciamento_Tarefas.deps.json
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\bin\Debug\net8.0\Gerenciamento_Tarefas.runtimeconfig.json
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\bin\Debug\net8.0\Gerenciamento_Tarefas.dll
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\bin\Debug\net8.0\Gerenciamento_Tarefas.pdb
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\Gerenciamento_Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\Gerenciamento_Tarefas.AssemblyInfoInputs.cache
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\Gerenciamento_Tarefas.AssemblyInfo.cs
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\Gerenciamento_Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\Gerenciamento_Tarefas.sourcelink.json
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\Gerenciamento_Tarefas.dll
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\refint\Gerenciamento_Tarefas.dll
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\Gerenciamento_Tarefas.pdb
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\Gerenciamento_Tarefas.genruntimeconfig.cache
+C:\Users\Oscar\Desktop\Programação\C#\Desafios\Gerenciamento_Tarefas\obj\Debug\net8.0\ref\Gerenciamento_Tarefas.dll
